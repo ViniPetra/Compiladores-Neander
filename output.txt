@@ -1,0 +1,14 @@
+DATA
+	0 5
+	1 5
+	2 10
+	3 20
+END
+
+CODE
+	LDA 0
+	ADD 1
+	ADD 2
+	ADD 3
+	ADD 4
+END
